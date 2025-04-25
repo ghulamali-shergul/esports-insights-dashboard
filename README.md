@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Esport_banner.png" alt="Esports Sponsorship Analytics Banner" width="1000">
+</p>
+
 # 🎮 Esports Sponsorship Analytics
 
 Data-driven analysis identifying top esports-ready games, genres, platforms, and publishers for sponsorship opportunities.
